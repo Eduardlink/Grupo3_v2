@@ -17,6 +17,7 @@ public class JavaApplication1 {
     public static void main(String[] args) {
         Alexis alexis = new Alexis();
         System.out.println("Hola soy " + alexis.nombre);
+        System.out.println("XD");
     }
     
 }
