@@ -11,6 +11,7 @@ package javaapplication1;
 public class Estefania {
     public static void main(String[] args) {
         System.out.println("Hola. uwu");
+        System.out.println("Adios");
     }
     
 }
