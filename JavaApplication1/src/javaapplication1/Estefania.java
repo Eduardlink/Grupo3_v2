@@ -9,5 +9,8 @@ package javaapplication1;
  * @author Tefy
  */
 public class Estefania {
+    public static void main(String[] args) {
+        System.out.println("Hola. uwu");
+    }
     
 }
