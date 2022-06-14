@@ -14,6 +14,7 @@ public class Eduardo {
         for (int i = 0; i < 10; i++) {
             System.out.println(i+"Hola");
         }
+        int num=6;
         
     }
     
